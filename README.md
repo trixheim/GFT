@@ -27,3 +27,8 @@ Features:
 
 -Just copy the exe file and run. You can store a startup config (stored in a ini file in the same folder as the exe file)
 
+How to save a startup config:
+-Select menu: Connect | Save startup session
+-If you specify user name and password (optional) it will listen for "login:" and "password:" and enter them for you.
+-Just click Ok to save communication type and speed plus logon info if used
+
