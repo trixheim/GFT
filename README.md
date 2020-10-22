@@ -7,7 +7,7 @@ Features:
 
 -RS232 and Telnet
 
--Supports colors and the most common VT escape commands
+--Supports colors and the most common VT escape commands, based on the VT510 manual
 
 -Full screen and windowed
 
