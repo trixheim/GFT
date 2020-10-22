@@ -1,5 +1,5 @@
 # GFT
-Grandfathers Terminal. VT style terminal for Windows. RS232 and Telnet. For Linux/Unix/AIX/Arduino (Yun) and many others.
+Grandfathers Terminal. FREE: VT style terminal for Windows. RS232 and Telnet. For Linux/Unix/AIX/Arduino (Yun) and many others.
 
 A Windows program.
 
