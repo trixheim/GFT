@@ -7,7 +7,9 @@ Features:
 
 -RS232 and Telnet
 
---Supports colors and the most common VT escape commands, based on the VT510 manual
+-Supports colors and the most common VT escape commands, based on the VT510 manual
+
+-Select if carrige return sends CR or CR/LF
 
 -Full screen and windowed
 
