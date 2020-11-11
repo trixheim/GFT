@@ -34,3 +34,6 @@ How to save a startup config:
 -If you specify user name and password (optional) it will listen for "login:" and "password:" and enter them for you.
 -Just click Ok to save communication type and speed plus logon info if used
 
+Version 2.2
+Possible to use com port higher than COM9
+
